@@ -30,9 +30,9 @@ Run the TemplateMatching.ipynb file in Jupyter Notebook or Google Colab.
 # Result
 
 <table>
-    <tr><td></td><img src="Results/output.png"></tr>
-    <tr><td></td><img src="Results/output_2.png"></tr>
-    <tr><td></td><img src="Results/output_3.png"></tr>
+    <tr><td><img src="Results/output.png"></td></tr>
+    <tr><td><img src="Results/output_2.png"></td></tr>
+    <tr><td><img src="Results/output_3.png"></td></tr>
 </table>
 
 # Folder Structure
