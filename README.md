@@ -31,8 +31,8 @@ Run the TemplateMatching.ipynb file in Jupyter Notebook or Google Colab.
 
 <table>
     <tr><td><img src="Results/output.png"><p align='center'>Template Matching using OpenCV</p></td></tr>
-    <tr><td><img src="Results/output_2.png"></td><p align='center'>Template Matching without using OpenCV</p></tr>
-    <tr><td><img src="Results/output_3.png"></td><p align='center'>Template Matching without using OpenCV</p></tr>
+    <tr><td><img src="Results/output_2.png"><p align='center'>Template Matching without using OpenCV</p></td></tr>
+    <tr><td><img src="Results/output_3.png"><p align='center'>Template Matching without using OpenCV</p></td></tr>
 </table>
 
 # Folder Structure
